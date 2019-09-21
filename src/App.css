@@ -1,0 +1,9 @@
+.app {
+    margin: 0 auto;
+    max-width: 95%;
+}
+
+.title {
+    color: #4A7DFF;
+    text-align: center;
+}
